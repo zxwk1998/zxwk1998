@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 - [📌 Vue Shop Vite 付费版本购买地址](https://vuejs-core.cn/authorization/shop-vite.html)
 
 
-主页访问量<br>
-
-![](https://profile-counter.glitch.me/chuzhixin/count.svg)
+## 贡献活跃度 🧑‍💻
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake.svg">
 </picture>
+
+## 主页访问量 📈
+
+![](https://profile-counter.glitch.me/chuzhixin/count.svg)
