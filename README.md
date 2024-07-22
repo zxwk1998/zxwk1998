@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-better/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-better/)
 
-- [🎉 vue3.x + vite + ts + arco.design （免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-arco/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+- [🎉 vue3.x + vite + ts + arco.design （免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/)
 
-- [🚀 admin pro 演示地址（vue2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-pro/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+- [🚀 admin pro 演示地址（vue2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-pro/)
 
-- [🚀 admin plus 演示地址（vue3.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-plus/?hmsr=github&hmpl=&hmcu=&hmkw=&hmci=)
+- [🚀 admin plus 演示地址（vue3.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-plus/)
 
 - [📌 Vue Shop Vite 付费版本购买地址](https://vuejs-core.cn/authorization/shop-vite.html)
 
