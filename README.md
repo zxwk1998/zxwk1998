@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zxwk1998/zxwk1998/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 📈 主页访问量
+<!--## 📈 主页访问量
 
-![](https://profile-counter.glitch.me/zxwk1998/count.svg)
+![](https://profile-counter.glitch.me/zxwk1998/count.svg)-->
