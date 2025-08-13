@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - [🎉 vue3.x + vite + ts + arco.design （免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/)
 
-- [🎉 物料市场](https://vuejs-core.cn/store)
+- [🎉 Shop Vite 模板市场](https://vuejs-core.cn/store)
 
 - [🎉 找好工作就到【好工作就业参考网】查看就业避坑指南](https://job.vuejs-core.cn/)
 
