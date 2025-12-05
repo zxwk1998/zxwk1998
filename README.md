@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - [🎉 vue3.x + element-plus（免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue3-admin-better/)
 
-- [🎉 vue3.x + vite + ts + arco.design （免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/)
+- [🎉 vue3.x + vite + ts + arco.design （免费商用，支持 PC、平板、手机）](https://vuejs-core.cn/vue-admin-arco)
 
 - [🎉 Shop Vite 模板市场](https://vuejs-core.cn/store)
 
