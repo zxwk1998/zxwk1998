@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [🚀 基金估值股票量化系统](https://qdii.vuejs-core.cn)
 
 - [🚀 admin pro 演示地址（vue2.x 付费版本，支持 PC、平板、手机）](https://vuejs-core.cn/admin-pro/)
 
